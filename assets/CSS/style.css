@@ -1,0 +1,19 @@
+body{
+margin: 0px;
+padding: 0px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    position: relative;
+    width: 1000px;
+    height: 200px;
+    margin: 240px auto;
+
+}
+
+.container .biger-box{
+    position: relative;
+    width: 1000px;
+    height: 200px;
+}
